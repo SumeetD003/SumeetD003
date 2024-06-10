@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetd003&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetd003" /> </p>
 
-- 🔭 I’m currently working on [Quizzothon](https://github.com/SumeetD003/QUIZOOTHON.git)
+- 🔭 I’m currently pursuing Bachelors in ***Artificial Intelligence and Machine Learning*** field from **Vellore Institute of Technology, Bhopal**
 
 - 🌱 I’m currently learning **LLMs, Generative AI and PowerBI**
 
