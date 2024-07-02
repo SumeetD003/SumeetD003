@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumeetD003](https://github.com/SumeetD003)
 
-- 💬 Ask me about **Machine Learning, AI, CV**
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, Computer Vision**
 
 - 📫 How to reach me **sumeetdeshpande003@gmail.com**
 
