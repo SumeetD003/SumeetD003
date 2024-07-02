@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sumeetdeshpande003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xgmb91oHOTkfoMHJ8J5tuLBrimZgLY9v/view?usp=drive_link](https://drive.google.com/file/d/1xgmb91oHOTkfoMHJ8J5tuLBrimZgLY9v/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fQGAU4NXMXKrsNUzdpDM94ahDIHLXzRe/view?usp=sharing]
 
 - ⚡ Fun fact **I am very sarcastic!!!**
 
